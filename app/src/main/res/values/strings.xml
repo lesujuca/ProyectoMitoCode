@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Project Final</string>
+    <string name="str_username">Usuario</string>
+    <string name="str_password">Contraseña</string>
+    <string name="str_login">Iniciar Sesión</string>
+    <string name="str_register">Registrar Ahora</string>
+    <string name="str_register_now">Registrarse Ahora</string>
+    <string name="str_name">Nombre</string>
+    <string name="str_lastName">Apellido</string>
+    <string name="str_adress">Dirección</string>
+    <string name="str_email">Correo</string>
+    <string name="str_passwordRep">Rep. Contraseña</string>
+    <string name="str_val_userName">El Usuario es requerido</string>
+    <string name="str_val_name">El Nombre es requerido</string>
+    <string name="str_val_lastName">El Apellido es requerido</string>
+    <string name="str_val_adress">La Dirección es requerida</string>
+    <string name="str_val_email">La Dirección de Correo Electrónico es requerida</string>
+    <string name="str_val_password">La Contraseña es requerida</string>
+    <string name="str_val_passwordRep">La Contraseña Repetida debe ser igual</string>
+    <string name="str_home">Inicio</string>
+    <string name="str_order">Lista de Pedidos</string>
+    <string name="str_order_detail">Detalle de Pedido</string>
+    <string name="str_product">Lista de Productos</string>
+    <string name="str_product_detail">Detalle de Producto</string>
+    <string name="str_description">Producto</string>
+    <string name="str_blank"></string>
+    <string name="str_exit">Cerrando Sesión...</string>
+    <string name="str_mitoCode">Alumno: Juan Lerma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_car">Carrito de Compra</string>
+    <string name="str_registerUser">Registro de Usuario Exitoso</string>
+    <string name="str_invalidUser">Login Rechazado</string>
+    <string name="str_validUser">Login Exitoso</string>
+    <string name="str_hello">"Hola: "</string>
+    <string name="str_existsUser">Usuario ya Existe</string>
+    <string name="str_add_car">Agregar al carrito</string>
+    <string name="str_added_car">Agregado al carrito</string>
+    <string name="str_usd">$</string>
+    <string name="str_car_empty">Carrito vacío</string>
+    <string name="str_sub_total">SubTotal</string>
+    <string name="str_igv">IGV</string>
+    <string name="str_total">Total</string>
+    <string name="str_setOrder">Realizar Pedido</string>
+
+</resources>

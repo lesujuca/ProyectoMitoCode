@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/str_home"
+        android:checked="true"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/navProduct"
+        android:icon="@drawable/ic_product"
+        android:title="@string/str_product"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/navOrder"
+        android:icon="@drawable/ic_order"
+        android:title="@string/str_order"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/navExit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/str_exit"
+        android:checkable="true" />
+
+</menu>

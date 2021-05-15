@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemProductContainer"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingTop="8dp"
+    android:paddingRight="8dp"
+    android:paddingBottom="6dp">
+
+    <TextView
+        android:id="@+id/productTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/dark_black_8"
+        android:gravity="center_vertical"
+        android:maxLines="2"
+        android:minLines="3"
+        android:padding="1dp"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/productImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/str_description" />
+<!--
+    <TextView
+        android:id="@+id/productDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="40"
+        android:background="@color/dark_black_8"
+        android:gravity="center_vertical"
+        android:maxLines="5"
+        android:minLines="5"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />-->
+</LinearLayout>
